@@ -1,0 +1,6 @@
+{
+  "name": "SYNVEX",
+  "description": "SYNVEX — yüksek FPS'li ritim tabanlı roguelike hayatta kalma oyunu: 4 kanallı dinamik müzik, tek parmak joystick, şok dalgaları ve sinerji evrimleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
